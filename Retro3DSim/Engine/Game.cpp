@@ -23,6 +23,7 @@
 #include <chrono>
 
 //TEST
+//TEST from Kraisorna
 
 Game::Game( MainWindow& wnd )
 	:
